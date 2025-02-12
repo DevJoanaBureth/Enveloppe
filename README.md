@@ -1,4 +1,19 @@
 # Enveloppe
-👩‍💻 Code HTML, CSS et JavaScript qui ouvre et ferme une enveloppe pour afficher un message mignon.
 
-🕰️ Fait en 2 jours, pour tester et apprendre les transitions en CSS.
+Une enveloppe simple en HTML, CSS et JavaScript permettant de voir un message.
+
+![Aperçu de l'enveloppe](screenshot.png)
+
+## Fonctionnalités
+
+- **Ouvrir l'enveloppe**
+
+## Technologies utilisées
+
+- **HTML** : Structure de la page
+- **CSS** : Design et mise en forme
+- **JavaScript** : Logique pour la page
+
+## Utilisation
+
+1. Cliquer sur l'envelope pour l'ouvrir.
